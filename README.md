@@ -1,1 +1,1 @@
-# MLlib_pyspark_cereal_rating
+# Lo mismo que el repositorio de *cereal_rating* pero usando MLlib pyspark
